@@ -1,1 +1,94 @@
-# ptenhancer
+# 🦄 Pony Town Enhanced
+
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Platform](https://img.shields.io/badge/platform-macOS%20|%20Windows%20|%20Linux-lightgrey)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+An enhanced Electron wrapper for Pony Town that adds quality of life features while respecting the game's rules.
+
+<div align="center">
+  <img src="docs/images/app-preview.png" alt="Pony Town Enhanced Screenshot" width="80%">
+</div>
+
+## ✨ Features
+
+### 🔄 Auto-Rejoin
+Never worry about disconnections again. The app automatically detects when you've been disconnected and clicks the reconnect button for you.
+
+<div align="center">
+  <img src="docs/images/auto-rejoin.gif" alt="Auto Rejoin Feature" width="60%">
+</div>
+
+### 🎨 Custom Themes
+Choose from several beautiful themes to customize your Pony Town experience or reduce eye strain during night sessions.
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="docs/images/theme-dark.png" alt="Dark Theme" width="100%"><br><em>Dark Theme</em></td>
+      <td><img src="docs/images/theme-pastel.png" alt="Pastel Theme" width="100%"><br><em>Pastel Theme</em></td>
+    </tr>
+    <tr>
+      <td><img src="docs/images/theme-neon.png" alt="Neon Theme" width="100%"><br><em>Neon Theme</em></td>
+      <td><img src="docs/images/theme-nightshift.png" alt="Night Shift Theme" width="100%"><br><em>Night Shift Theme</em></td>
+    </tr>
+  </table>
+</div>
+
+### 📷 Clean Screenshots
+Take screenshots without UI elements with just a keypress (Alt+S).
+
+<div align="center">
+  <img src="docs/images/clean-screenshot.png" alt="Clean Screenshots Feature" width="60%">
+</div>
+
+### 💬 Enhanced Whisper Notifications
+Never miss a whisper! Get desktop notifications and badge indicators when you receive whispers.
+
+<div align="center">
+  <img src="docs/images/notifications.png" alt="Enhanced Notifications" width="60%">
+</div>
+
+### 🎮 Discord Rich Presence
+Show your friends you're playing Pony Town with our Discord integration.
+
+<div align="center">
+  <img src="docs/images/discord-presence.png" alt="Discord Rich Presence" width="40%">
+</div>
+
+### 🔄 Automatic Updates
+Easily stay up to date with the latest version through our built-in update system.
+
+<div align="center">
+  <img src="docs/images/auto-update.png" alt="Automatic Updates" width="60%">
+</div>
+
+## 🚀 Installation
+
+### Download
+
+Download the latest version from the [Releases](https://github.com/freddystudio/ptenhancer/releases) page.
+
+### Platform Support
+
+- **macOS**: macOS 10.13 or later (Intel & Apple Silicon)
+- **Windows**: Windows 10 or later
+- **Linux**: Ubuntu 18.04 or compatible distributions
+
+## ⌨️ Keyboard Shortcuts
+
+| Shortcut | Action |
+|----------|--------|
+| Alt+S    | Take clean screenshot |
+| Alt+T    | Open theme selector |
+| Alt+P    | Pin window on top |
+| Alt+U    | Unpin window |
+| Cmd/Ctrl+, | Open settings |
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## ⚠️ Disclaimer
+
+This is an unofficial wrapper and is not affiliated with Pony Town or its creators. Use at your own discretion.
