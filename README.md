@@ -1,6 +1,6 @@
 # 🦄 Pony Town Enhanced
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Version](https://img.shields.io/badge/version-0.1.0-blue)
 ![Platform](https://img.shields.io/badge/platform-macOS%20|%20Windows%20|%20Linux-lightgrey)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
