@@ -7,7 +7,7 @@
 An enhanced Electron wrapper for Pony Town that adds quality of life features while respecting the game's rules.
 
 <div align="center">
-  <img src="docs/images/app-preview.png" alt="Pony Town Enhanced Screenshot" width="80%">
+  <img src="docs/images/app-logo.png" alt="Pony Town Enhanced Screenshot" width="80%">
 </div>
 
 ## ✨ Features
@@ -21,19 +21,6 @@ Never worry about disconnections again. The app automatically detects when you'v
 
 ### 🎨 Custom Themes
 Choose from several beautiful themes to customize your Pony Town experience or reduce eye strain during night sessions.
-
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="docs/images/theme-dark.png" alt="Dark Theme" width="100%"><br><em>Dark Theme</em></td>
-      <td><img src="docs/images/theme-pastel.png" alt="Pastel Theme" width="100%"><br><em>Pastel Theme</em></td>
-    </tr>
-    <tr>
-      <td><img src="docs/images/theme-neon.png" alt="Neon Theme" width="100%"><br><em>Neon Theme</em></td>
-      <td><img src="docs/images/theme-nightshift.png" alt="Night Shift Theme" width="100%"><br><em>Night Shift Theme</em></td>
-    </tr>
-  </table>
-</div>
 
 ### 📷 Clean Screenshots
 Take screenshots without UI elements with just a keypress (Alt+S).
