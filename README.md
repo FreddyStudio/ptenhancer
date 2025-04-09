@@ -7,7 +7,7 @@
 An enhanced Electron wrapper for Pony Town that adds quality of life features while respecting the game's rules.
 
 <div align="center">
-  <img src="docs/images/app-logo.png" alt="Pony Town Enhanced Screenshot" width="80%">
+  <img src="docs/Images/app-logo.png" alt="Pony Town Enhanced Screenshot" width="80%">
 </div>
 
 ## ✨ Features
@@ -16,7 +16,7 @@ An enhanced Electron wrapper for Pony Town that adds quality of life features wh
 Never worry about disconnections again. The app automatically detects when you've been disconnected and clicks the reconnect button for you.
 
 <div align="center">
-  <img src="docs/images/auto-rejoin.gif" alt="Auto Rejoin Feature" width="60%">
+  <img src="docs/Images/auto-rejoin.gif" alt="Auto Rejoin Feature" width="60%">
 </div>
 
 ### 🎨 Custom Themes
@@ -26,28 +26,28 @@ Choose from several beautiful themes to customize your Pony Town experience or r
 Take screenshots without UI elements with just a keypress (Alt+S).
 
 <div align="center">
-  <img src="docs/images/clean-screenshot.png" alt="Clean Screenshots Feature" width="60%">
+  <img src="docs/Images/clean-screenshot.png" alt="Clean Screenshots Feature" width="60%">
 </div>
 
 ### 💬 Enhanced Whisper Notifications
 Never miss a whisper! Get desktop notifications and badge indicators when you receive whispers.
 
 <div align="center">
-  <img src="docs/images/notifications.png" alt="Enhanced Notifications" width="60%">
+  <img src="docs/Images/notifications.png" alt="Enhanced Notifications" width="60%">
 </div>
 
 ### 🎮 Discord Rich Presence
 Show your friends you're playing Pony Town with our Discord integration.
 
 <div align="center">
-  <img src="docs/images/discord-presence.png" alt="Discord Rich Presence" width="40%">
+  <img src="docs/Images/discord-presence.png" alt="Discord Rich Presence" width="40%">
 </div>
 
 ### 🔄 Automatic Updates
 Easily stay up to date with the latest version through our built-in update system.
 
 <div align="center">
-  <img src="docs/images/auto-update.png" alt="Automatic Updates" width="60%">
+  <img src="docs/Images/auto-update.png" alt="Automatic Updates" width="60%">
 </div>
 
 ## 🚀 Installation
